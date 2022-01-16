@@ -1,7 +1,7 @@
 
 
-
-
+/*
+https://github.com/ldijkman/arduino_rotary_encoder_alarm_clock
 version 6 juli 2019
 
 
@@ -731,5 +731,5 @@ int8_t read_rotary() {
   http://sticker.tk/forum/index.php?action=view&id=299
   5 cents would be appreciated http://paypal.me/LDijkman
   ******************************************************************
-
+https://github.com/ldijkman/arduino_rotary_encoder_alarm_clock
 */
