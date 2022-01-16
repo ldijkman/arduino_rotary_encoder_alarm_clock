@@ -33,7 +33,8 @@ version 6 juli 2019
 #include "EEPROM.h"
 #include <Wire.h>
 #include <RTClib.h>
-#include <LiquidCrystal_I2C.h>                     // https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home
+#include <LiquidCrystal_I2C.h>                     // https://github.com/fmalpartida/New-LiquidCrystal
+                                                   // https://github.com/fmalpartida/New-LiquidCrystal/archive/refs/heads/master.zip
 LiquidCrystal_I2C  lcd(0x27, 2, 1, 0, 4, 5, 6, 7);
 RTC_DS1307 RTC;
 
