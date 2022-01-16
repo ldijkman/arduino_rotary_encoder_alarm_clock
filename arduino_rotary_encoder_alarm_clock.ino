@@ -721,7 +721,7 @@ int8_t read_rotary() {
    thanks to: My electronics laboratory professor "Perito Carli"
 
  **********************************************************************
-  5 cents would be appreciated http://paypal.me/pools/c/8amUN5rgb9
+  5 cents would be appreciated http://paypal.me/LDijkman
   http://sticker.tk/forum/index.php?action=view&id=299
   Changes made by luberth dijkman juli 2019
   save alarmtime to eeprom for reload on reboot
